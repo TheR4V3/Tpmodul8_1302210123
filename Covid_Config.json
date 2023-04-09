@@ -1,0 +1,6 @@
+{
+	"satuan_Suhu":"CONFIG1",
+	"batas_hari_demam":"CONFIG2",
+	"Pesan_ditolak":"CONFIG3",
+	"pesan_diterima":"CONFIG4"
+}
